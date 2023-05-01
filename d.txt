@@ -1,0 +1,2 @@
+Aqui pode ter coisas anotadas como framework de arquivos
+que não precisam ser comitados.
